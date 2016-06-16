@@ -1,5 +1,5 @@
 
-## Links and Resources
+## Links 
 
 - [Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 - [Which Python](http://docs.python-guide.org/en/latest/starting/which-python/)
