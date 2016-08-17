@@ -1,5 +1,5 @@
 
-## Tools & Utils: virtualenv
+## Setup: virtualenv
 
 - Helps create self-contained environment for your projects.
 - Solves the "Project X depends on version 1.x but, Project Y needs 4.x" dilemma.

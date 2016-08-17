@@ -9,7 +9,6 @@ import sys
 def fib(n):
     """Fibonacci series"""
 
-    # init a & b
     a, b = 0, 1
 
     sys.stdout.write('%s ' %a)
@@ -18,6 +17,8 @@ def fib(n):
         sys.stdout.write('%s ' %a)
 
 if '__main__' == __name__:
-    fib(10)
+    n = raw_input('Enter a number: ')
+    print 'Fibonacci series'
+    fib(int(n))
 ```
 
